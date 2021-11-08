@@ -1,0 +1,27 @@
+Variable,Outcome,Count,Percent
+Gender,Male,211,69.64
+,Female,92,30.36
+Age_Group,51-65,157,51.82
+,36-50,108,35.64
+,66 and above,23,7.59
+,16-35,15,4.95
+Marital_status,Married,296,97.69
+,Unmarried,7,2.31
+Education_Level,"Post graduate (MSc, Ms, MD, PhD, Diploma and Others)/Kamil",93,30.69
+,Graduate,76,25.08
+,HSC,40,13.2
+,SSC,37,12.21
+,Undergraduate,34,11.22
+,No education,23,7.59
+Occupation,Public Service,74,24.42
+,Housewife,67,22.11
+,Retired,41,13.53
+,Private Service,36,11.88
+,School / College Teacher,24,7.92
+,Police and Defence Service,16,5.28
+,Other,11,3.63
+,Bank and Financial Institutions,8,2.64
+,Doctor/Physician,8,2.64
+,Govt. / Private University Teacher,7,2.31
+,Health Care Service Provider,6,1.98
+,Student,5,1.65

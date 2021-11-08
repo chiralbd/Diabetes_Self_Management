@@ -1,0 +1,13 @@
+Variable,Outcome,Count,Percent
+At_which_age_you_diagnosed_diabetes?,36 to 50,207,68.32
+,16 to 35,60,19.8
+,51-65,29,9.57
+,66  and above,6,1.98
+,Under 16 years,1,0.33
+What_type_of_diabetes_do_you_have?,Type 2,127,41.91
+,Don't know,105,34.65
+,Type 1,71,23.43
+Did_you_inject_insulin_within_the_first_3_months_of_being_diagnosed_?,Probable Type 2,235,77.56
+,Probable Type 1,68,22.44
+Did_you_continue_injecting_for_more_than_one_year_after_you_first_injected_insulin?,Probable Type 2,219,72.28
+,Probable Type 1,84,27.72

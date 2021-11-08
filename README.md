@@ -1,2 +1,2 @@
-# Diabetes_Self_Management
-Self Management and Knowledge of Diabetic Patients in Bangladesh
+# S1-Diabetes
+Self Management And Knowledge of Diabetic Patients in Bangladesh
